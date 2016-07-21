@@ -15,7 +15,7 @@ Pizza Shop Project from Code Fellows 201 Feb 2016
 ---
 
 ###As a Developer I want to:
-- Structure the data for Jenny in a way which makes it easy for her to get all of the information she needs to run her business efectively.
-- Have a public facing website that features Pizza 3001 and its locations/hours and captures the essense of the shop for the user.
+- Structure the data for Jenny in a way which makes it easy for her to get all of the information she needs to run her business effectively.
+- Have a public facing website that features Pizza 3001 and its locations/hours and captures the essence of the shop for the user.
 - Display all the pictures Jenny gave me in a way which doesn't make the user want to cover their eyes with the pizza of a competitor.  
 - Create a form which is simple and easy to use to allow for new store locations to be added without hassle.
