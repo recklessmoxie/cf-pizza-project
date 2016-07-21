@@ -1,2 +1,2 @@
-# why-pizza-why
-please ignore, for demo only
+# new-pizza
+Starting from scratch, because why not
